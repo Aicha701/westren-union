@@ -1,0 +1,80 @@
+header.masthead {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    color: #fff;
+    background-image: url(assets/img/header-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+.flag{
+  overflow: visible;
+  z-index: 1;
+}
+
+.services1 {
+  color: rgb(56, 56, 56);
+  text-decoration: none;
+}
+
+.rounded-circle{
+  border: 2px solid rgb(153, 153, 153) ;
+}
+
+.img-fluid1{
+  margin-left: 80px;
+}
+
+.btn1{
+  
+    box-sizing: border-box;
+    right: 12%;
+    top: 24%;
+    color: rgb(58, 58, 58);
+    padding: 10px 50px;
+    border: none;
+    border-radius: 4px;
+    font-size: 17px ;
+  }
+  button.btn1
+  {
+    background-color:rgb(255, 251, 0);
+  }
+  
+  button.btn1:hover
+  {
+   background-color:rgba(255, 255, 0, 0.712);
+  }
+
+.table-yellow{
+  background: yellow;
+}
+
+.table-light-yellow{
+  background: rgb(248, 248, 124);
+}
+
+.stroyimg{
+  margin-left: 80px;
+}
+
+a {
+  text-decoration: none!important;
+}
+
+.root {
+height: 500px;
+border: 2px, solid,black;
+font-size: 50px;
+background-color: brown;
+text-align: center;
+vertical-align: center;
+line-height: 50vh;
+}
+
+.dark{
+  background-color: black;
+}
